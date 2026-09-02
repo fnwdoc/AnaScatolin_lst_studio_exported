@@ -1,1 +1,1 @@
-# lst_studio_express
+# lst_studio_builder v1.2
