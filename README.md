@@ -1,1 +1,1 @@
-# lst_studio_builder v1.2
+# AnaScatolin_lst_studio_builder v1.3
